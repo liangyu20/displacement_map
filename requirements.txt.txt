@@ -1,0 +1,8 @@
+numpy>=1.21
+matplotlib>=3.4
+scipy>=1.7
+Pillow>=8.0
+scikit-image>=0.18
+hyperspy>=1.6
+atomap>=0.4.1
+ncempy>=0.2020.1
